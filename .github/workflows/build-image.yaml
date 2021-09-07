@@ -24,3 +24,4 @@ jobs:
           make build.push
         env:
           IMAGE: ghcr.io/neom-td/external-dns
+          VERSION: external-dns-helm-chart-1.2.0-7-gb9e272d9
